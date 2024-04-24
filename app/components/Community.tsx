@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 const Community = () => {
   return (
-    <div className='h-[291.8px] '>
+    <div className='h-[291.8px] mt-2 '>
 
         <div className='flex flex-col'>
 
